@@ -17,7 +17,7 @@ The Memory Assist App is designed to help individuals with memory difficulties m
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/memory-assist-app.git
+   git clone https://github.com/Lose-dows/mEM-aSS-app.git
    ```
 2. Navigate to the project directory:
    ```
