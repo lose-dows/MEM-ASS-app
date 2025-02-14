@@ -1,0 +1,29 @@
+{
+  "name": "memory-assist-app",
+  "version": "1.0.0",
+  "description": "An application designed to assist individuals with memory difficulties by providing reminders, alerts, and calendar functionalities.",
+  "main": "src/app.ts",
+  "scripts": {
+    "start": "ts-node src/app.ts",
+    "test": "jest"
+  },
+  "dependencies": {
+    "typescript": "^4.5.0",
+    "ts-node": "^10.0.0",
+    "jest": "^27.0.0",
+    "keyring": "^1.0.0",
+    "cryptodome": "^3.10.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.0",
+    "@types/node": "^16.0.0"
+  },
+  "keywords": [
+    "memory",
+    "reminders",
+    "calendar",
+    "assisted living"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
